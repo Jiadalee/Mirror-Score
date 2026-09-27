@@ -1,0 +1,85 @@
+{
+ "n_with_boltz_features": 10,
+ "pending_quota_reset": [
+  "7YH8",
+  "8F0Z",
+  "8F10",
+  "8F12",
+  "8F13",
+  "8F14",
+  "8F15",
+  "8F16"
+ ],
+ "viral_entry_complete_n7": {
+  "loo_ridge_boltz_iplddt": {
+   "rho": 0.896,
+   "p": 0.006
+  },
+  "loo_ridge_boltz_all": {
+   "rho": 0.896,
+   "p": 0.006
+  },
+  "loo_ridge_nll_only": {
+   "rho": 0.179,
+   "p": 0.701
+  },
+  "loo_ridge_contacts_hbonds_hydrophobic": {
+   "rho": 0.837,
+   "p": 0.019
+  },
+  "top3_by_iplddt": [
+   "3L35",
+   "3L37",
+   "3L36"
+  ],
+  "top3_kd_nM": [
+   37.0,
+   37.0,
+   37.0
+  ],
+  "topk_enrichment_vs_random": 2.33,
+  "pseudo_replication_caveat": "The 7 structures comprise only 3 distinct peptides with 3 distinct affinities (PIE7 x2 at 620 nM; PIE12 x4 at 37 nM; PIE71 x1 at 410 nM). Structure-level LOO rho=0.896 (p=0.006) treats near-duplicate crystal forms as independent observations and overstates the evidence; effective sample size is 3 peptides, not 7 structures."
+ },
+ "cancer_ppi_n3": "underpowered (8F-series pending); directional consistency only",
+ "pooled_n10": {
+  "mpnn_nll_mirror": {
+   "rho": -0.176,
+   "p": 0.627
+  },
+  "boltz_iplddt": {
+   "rho": -0.577,
+   "p": 0.081
+  },
+  "note": "pooled metrics confounded by family; cross-family transfer not supported at n=10"
+ },
+ "viral_entry_peptide_level_n3": {
+  "aggregation": {
+   "PIE7": {
+    "n_structures": 2,
+    "kd_nM": 620.0,
+    "iplddt_mean": 0.7473,
+    "nll_mean": 3.1253
+   },
+   "PIE12": {
+    "n_structures": 4,
+    "kd_nM": 37.0,
+    "iplddt_mean": 0.8842,
+    "nll_mean": 3.1629
+   },
+   "PIE71": {
+    "n_structures": 1,
+    "kd_nM": 410.0,
+    "iplddt_mean": 0.7974,
+    "nll_mean": 3.1713
+   }
+  },
+  "iplddt_spearman": {
+   "rho": -1.0,
+   "note": "perfect monotonic ordering (higher iplddt = tighter peptide); n=3 precludes meaningful significance"
+  },
+  "nll_spearman": {
+   "rho": -0.5
+  },
+  "note": "At the peptide level, Boltz-2 iplddt orders all 3 peptides correctly; NLL does not. Headline claim downgraded from validated (p=0.006) to directionally consistent at n=3 peptides."
+ }
+}

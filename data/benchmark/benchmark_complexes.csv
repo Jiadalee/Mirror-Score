@@ -1,0 +1,32 @@
+pdb_id,target,target_family,d_peptide,peptide_len,resolution_A,affinity_status,reference
+1CZQ,HIV-1 gp41 (IQN17),viral entry,D10-P1,15,1.5,IC50 reported (Eckert & Kim 2001),"Eckert & Kim, PNAS 2001"
+2Q3I,HIV-1 gp41 (IQN17),viral entry,D10-P3,17,1.5,IC50 reported,Eckert & Kim lineage
+2R3C,HIV-1 gp41 N-trimer,viral entry,PIE1,18,1.73,"no verified monomer value (1st-gen PIE, Eckert & Kim Cell 1999, paywalled) - excluded from calibration","Welch et al., ACS Chem Biol 2007"
+2R5B,HIV-1 gp41 N-trimer,viral entry,PIE7,17,2.0,IC50 = 620 nM (HXB2 entry; Welch 2007 PNAS Table 1),Welch et al. 2007
+2R5D,HIV-1 gp41 N-trimer,viral entry,PIE7,17,1.66,IC50 = 620 nM (HXB2 entry; Welch 2007 PNAS Table 1),Welch et al. 2007
+3L35,HIV-1 gp41 N-trimer,viral entry,PIE12,18,1.55,IC50 = 37 nM (HXB2 entry; Welch 2007 PNAS Table 1),"Welch et al., JVI 2010"
+3L36,HIV-1 gp41 N-trimer,viral entry,PIE12,17,1.45,IC50 = 37 nM (HXB2 entry; Welch 2007 PNAS Table 1),"Welch et al., JVI 2010"
+3L37,HIV-1 gp41 N-trimer,viral entry,PIE12,18,1.45,IC50 = 37 nM (HXB2 entry; Welch 2007 PNAS Table 1),"Welch et al., JVI 2010"
+3MGN,HIV-1 gp41 (IQN17),viral entry,PIE71,17,1.4,IC50 = 410 nM (HXB2 entry; Welch 2007),Kay lab lineage
+6PSA,HIV-1 gp41 (IQN17 Q577R),viral entry,PIE12,18,1.3,IC50 = 37 nM (HXB2 entry; Welch 2007 PNAS Table 1),"Smith et al., Retrovirology 2019"
+3LNJ,human MDM2,cancer; PPI,DPMI-alpha,12,2.4,KD = 219 nM (Liu PNAS 2010; Zhan JMC 2012),"Liu et al., PNAS 2010"
+3TPX,human MDM2,cancer; PPI,DPMI-delta,12,1.8,"KD = 220 pM ((D)PMI-delta; Zhan JMC 2012, PMC3426300)","Liao et al., J Med Chem 2025"
+3IWY,human MDM2,cancer; PPI,D-peptide 12mer,12,1.93,KD = 53 nM ((D)PMI-gamma; Liu PNAS 2010),"Liu et al., PNAS 2010"
+7KJM,human MDM2,cancer; PPI,D-PMI-omega,12,1.4,KD in Liao JMC 2025 (paywalled; not retrievable) - excluded from calibration,"Li et al., Acta Pharm Sin B 2021"
+7KJN,human MDMX,cancer; PPI,D-PMI-omega,12,2.8,KD in Liao JMC 2025 (paywalled; not retrievable) - excluded from calibration,"Li et al., Acta Pharm Sin B 2021"
+8F0Z,human MDM2,cancer; PPI,H101,19,1.61,"KD = 5.5 uM (SPR; Callahan et al., Nat Commun 2024)",Helicon polypeptide series
+8F10,human MDM2,cancer; PPI,H102,19,1.28,"KD = 2.4 uM (SPR; Callahan et al., Nat Commun 2024)",Helicon polypeptide series
+8F12,human MDM2,cancer; PPI,H103,19,1.86,"KD = 0.88 uM (SPR; Callahan et al., Nat Commun 2024)",Helicon polypeptide series
+8F13,human MDM2,cancer; PPI,H103,19,1.4,KD = 0.88 uM (same ligand H103 as 8F12; Callahan 2024),Helicon polypeptide series
+8F14,human STUB1/CHIP TPR,cancer; PPI,H201,17,1.69,"IC50 = 0.47 uM (competition FP; Callahan et al., Nat Commun 2024)",Helicon polypeptide series
+8F15,human STUB1/CHIP TPR,cancer; PPI,H202,17,1.73,"IC50 = 0.55 uM (competition FP; Callahan et al., Nat Commun 2024)",Helicon polypeptide series
+8F16,human STUB1/CHIP TPR,cancer; PPI,H203,17,1.56,"IC50 = 1.23 uM (competition FP; Callahan et al., Nat Commun 2024)",Helicon polypeptide series
+8F17,human STUB1/CHIP TPR,cancer; PPI,H204,17,2.21,no numeric affinity reported (structure only; Callahan 2024) - excluded from calibration,Helicon polypeptide series
+4GLN,human VEGF-A,angiogenesis,D-RFX001 (D-protein binder),56,1.6,D-protein binder subclass (not D-peptide) - excluded from D-peptide calibration,"DasGupta et al., heterochiral VEGF antagonist"
+5HHC,human VEGF-A,angiogenesis,RFX037.D,69,2.1,D-protein binder subclass (not D-peptide) - excluded from D-peptide calibration,RFX037 series
+5HHD,human VEGF-A,angiogenesis,RFX037.D,69,2.1,D-protein binder subclass (not D-peptide) - excluded from D-peptide calibration,RFX037 series
+7NEW,P. aeruginosa LecB (fucose lectin),AMR; anti-virulence,Fdln69,12,2.02,"fucose-anchor confound; mixed-chirality AMP - AMR positive control, excluded from calibration",fucosylated heterochiral peptide study
+7YH8,L-19437 (designed target),designed PPI,D-Pep-1,19,2.2,KD = 22 nM (BLI; Sun et al. 2024),heterochiral protein complex study
+9DXX,influenza A H1N1 hemagglutinin,viral entry,D-peptide 31mer,31,2.37,Ki 2-21 uM range (DP93; exact value in SI Table S4 not retrievable) - excluded from calibration,"Juraszek et al., PNAS 2025"
+9XHR,human cathepsin B,enzyme; substrate,D-peptide substrate,7,1.5,substrate; kinetics not KD - excluded from calibration,cathepsin B D-peptide substrate study
+1ZEA,anti-cholera-toxin antibody TE33,antibody; model system,D2 peptide,9,1.78,affinity comparable to L-peptide (numeric KD paywalled) - excluded from calibration,Wiesmueller et al. lineage
