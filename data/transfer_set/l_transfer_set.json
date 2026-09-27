@@ -1,0 +1,102 @@
+{
+ "3EQS": {
+  "pep_chain": "B",
+  "kd_nM": 3.2,
+  "peptide": "PMI TSFAEYWNLLSP",
+  "target": "MDM2",
+  "source": "Kd 3.2 nM (Liu et al.; PMC3359147 Table 1)",
+  "descriptors": {
+   "n_atom_contacts": 339,
+   "n_pep_res_in_contact": 10,
+   "n_tgt_res_in_contact": 17,
+   "n_hbonds": 2,
+   "n_salt_bridges": 0,
+   "peptide_net_charge": -1,
+   "target_net_charge": 8,
+   "charge_complementarity": 9,
+   "peptide_hydrophobic_frac": 0.45454545454545453,
+   "peptide_len": 11
+  },
+  "mpnn_nll_native": 1.6091837882995605
+ },
+ "1YCR": {
+  "pep_chain": "B",
+  "kd_nM": 452.0,
+  "peptide": "17-28p53 ETFSDLWKLLPE",
+  "target": "MDM2",
+  "source": "Kd 452 nM (PMC3359147 Table 1)",
+  "descriptors": {
+   "n_atom_contacts": 461,
+   "n_pep_res_in_contact": 11,
+   "n_tgt_res_in_contact": 24,
+   "n_hbonds": 6,
+   "n_salt_bridges": 4,
+   "peptide_net_charge": -2,
+   "target_net_charge": 7,
+   "charge_complementarity": 9,
+   "peptide_hydrophobic_frac": 0.46153846153846156,
+   "peptide_len": 13
+  },
+  "mpnn_nll_native": 1.4767354726791382
+ },
+ "3JZS": {
+  "pep_chain": "P",
+  "kd_nM": 0.49,
+  "peptide": "pDIQ (N8A-PMI)",
+  "target": "MDM2",
+  "source": "Kd 0.49 nM (Pazgier 2010, PMC2856455)",
+  "descriptors": {
+   "n_atom_contacts": 352,
+   "n_pep_res_in_contact": 10,
+   "n_tgt_res_in_contact": 17,
+   "n_hbonds": 3,
+   "n_salt_bridges": 0,
+   "peptide_net_charge": -1,
+   "target_net_charge": 8,
+   "charge_complementarity": 9,
+   "peptide_hydrophobic_frac": 0.4166666666666667,
+   "peptide_len": 12
+  },
+  "mpnn_nll_native": 1.521985650062561
+ },
+ "3Q49": {
+  "pep_chain": "C",
+  "kd_nM": 620.0,
+  "peptide": "Hsc70 C-tail PTIEEVD",
+  "target": "CHIP TPR",
+  "source": "Kd 0.62 uM (PMC4714923 FP)",
+  "descriptors": {
+   "n_atom_contacts": 332,
+   "n_pep_res_in_contact": 7,
+   "n_tgt_res_in_contact": 18,
+   "n_hbonds": 8,
+   "n_salt_bridges": 4,
+   "peptide_net_charge": -3,
+   "target_net_charge": 6,
+   "charge_complementarity": 9,
+   "peptide_hydrophobic_frac": 0.42857142857142855,
+   "peptide_len": 7
+  },
+  "mpnn_nll_native": 1.6902072429656982
+ },
+ "1TET": {
+  "pep_chain": "P",
+  "kd_nM": 10000.0,
+  "peptide": "VPGSQHID epitope",
+  "target": "TE33 Fab",
+  "source": "Kd ~1e-5 M (Friguet method; Structure 1999)",
+  "descriptors": {
+   "n_atom_contacts": 464,
+   "n_pep_res_in_contact": 11,
+   "n_tgt_res_in_contact": 16,
+   "n_hbonds": 11,
+   "n_salt_bridges": 1,
+   "peptide_net_charge": 2,
+   "target_net_charge": 11,
+   "charge_complementarity": 9,
+   "peptide_hydrophobic_frac": 0.3333333333333333,
+   "peptide_len": 12
+  },
+  "mpnn_nll_native": 1.9270669221878052
+ }
+}

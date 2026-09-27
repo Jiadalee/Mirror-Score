@@ -1,0 +1,60 @@
+{
+ "LasR": {
+  "target_pdb": "/workspace/mirrorscore/data/amr_targets/rfdiffusion_input/LasR_Dform.pdb",
+  "hotspots": [
+   "A36",
+   "A38",
+   "A39",
+   "A40",
+   "A47",
+   "A50",
+   "A52",
+   "A56",
+   "A60",
+   "A61",
+   "A64",
+   "A70",
+   "A73",
+   "A75",
+   "A76",
+   "A79",
+   "A80",
+   "A88",
+   "A93",
+   "A101",
+   "A105",
+   "A110",
+   "A115",
+   "A125",
+   "A126",
+   "A127",
+   "A129"
+  ],
+  "n_hotspots": 27,
+  "res_range": [
+   7,
+   168
+  ]
+ },
+ "LecB": {
+  "target_pdb": "/workspace/mirrorscore/data/amr_targets/rfdiffusion_input/LecB_Dform.pdb",
+  "hotspots": [
+   "A21",
+   "A22",
+   "A23",
+   "A45",
+   "A95",
+   "A96",
+   "A97",
+   "A99",
+   "A101",
+   "A103",
+   "A104"
+  ],
+  "n_hotspots": 11,
+  "res_range": [
+   1,
+   114
+  ]
+ }
+}

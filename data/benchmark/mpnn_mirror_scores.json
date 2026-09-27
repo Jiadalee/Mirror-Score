@@ -1,0 +1,157 @@
+{
+ "1CZQ": {
+  "mirror_chain": "D",
+  "peptide_len": 16,
+  "mpnn_nll_mirror": 3.1397504806518555
+ },
+ "2Q3I": {
+  "mirror_chain": "D",
+  "peptide_len": 16,
+  "mpnn_nll_mirror": 3.0621249675750732
+ },
+ "2R3C": {
+  "mirror_chain": "D",
+  "peptide_len": 15,
+  "mpnn_nll_mirror": 3.030061960220337
+ },
+ "2R5B": {
+  "mirror_chain": "H",
+  "peptide_len": 15,
+  "mpnn_nll_mirror": 3.127924680709839
+ },
+ "2R5D": {
+  "mirror_chain": "H",
+  "peptide_len": 15,
+  "mpnn_nll_mirror": 3.122697114944458
+ },
+ "3L35": {
+  "mirror_chain": "H",
+  "peptide_len": 16,
+  "mpnn_nll_mirror": 3.1778178215026855
+ },
+ "3L36": {
+  "mirror_chain": "H",
+  "peptide_len": 15,
+  "mpnn_nll_mirror": 3.1801562309265137
+ },
+ "3L37": {
+  "mirror_chain": "H",
+  "peptide_len": 16,
+  "mpnn_nll_mirror": 3.144108772277832
+ },
+ "3MGN": {
+  "mirror_chain": "K",
+  "peptide_len": 15,
+  "mpnn_nll_mirror": 3.171349048614502
+ },
+ "6PSA": {
+  "mirror_chain": "H",
+  "peptide_len": 16,
+  "mpnn_nll_mirror": 3.149418830871582
+ },
+ "3LNJ": {
+  "mirror_chain": "B",
+  "peptide_len": 11,
+  "mpnn_nll_mirror": 2.923030138015747
+ },
+ "3TPX": {
+  "mirror_chain": "B",
+  "peptide_len": 11,
+  "mpnn_nll_mirror": 2.932431936264038
+ },
+ "3IWY": {
+  "mirror_chain": "B",
+  "peptide_len": 12,
+  "mpnn_nll_mirror": 2.9392316341400146
+ },
+ "7KJM": {
+  "mirror_chain": "B",
+  "peptide_len": 12,
+  "mpnn_nll_mirror": 2.9451379776000977
+ },
+ "7KJN": {
+  "mirror_chain": "B",
+  "peptide_len": 12,
+  "mpnn_nll_mirror": 2.965949296951294
+ },
+ "8F0Z": {
+  "mirror_chain": "B",
+  "peptide_len": 17,
+  "mpnn_nll_mirror": 3.1662540435791016
+ },
+ "8F10": {
+  "mirror_chain": "B",
+  "peptide_len": 16,
+  "mpnn_nll_mirror": 3.1099164485931396
+ },
+ "8F12": {
+  "mirror_chain": "B",
+  "peptide_len": 17,
+  "mpnn_nll_mirror": 3.1137495040893555
+ },
+ "8F13": {
+  "mirror_chain": "B",
+  "peptide_len": 18,
+  "mpnn_nll_mirror": 3.0865635871887207
+ },
+ "8F14": {
+  "mirror_chain": "B",
+  "peptide_len": 16,
+  "mpnn_nll_mirror": 3.2071402072906494
+ },
+ "8F15": {
+  "mirror_chain": "E",
+  "peptide_len": 16,
+  "mpnn_nll_mirror": 3.091423749923706
+ },
+ "8F16": {
+  "mirror_chain": "C",
+  "peptide_len": 16,
+  "mpnn_nll_mirror": 3.197674512863159
+ },
+ "8F17": {
+  "mirror_chain": "C",
+  "peptide_len": 16,
+  "mpnn_nll_mirror": 3.053062677383423
+ },
+ "4GLN": {
+  "mirror_chain": "D",
+  "peptide_len": 56,
+  "mpnn_nll_mirror": 2.6298298835754395
+ },
+ "5HHC": {
+  "mirror_chain": "D",
+  "peptide_len": 68,
+  "mpnn_nll_mirror": 2.4765126705169678
+ },
+ "5HHD": {
+  "mirror_chain": "E",
+  "peptide_len": 95,
+  "mpnn_nll_mirror": 2.1458964347839355
+ },
+ "7NEW": {
+  "mirror_chain": "E",
+  "peptide_len": 11,
+  "mpnn_nll_mirror": 3.406599521636963
+ },
+ "7YH8": {
+  "mirror_chain": "B",
+  "peptide_len": 19,
+  "mpnn_nll_mirror": 2.887162208557129
+ },
+ "9DXX": {
+  "mirror_chain": "E",
+  "peptide_len": 31,
+  "mpnn_nll_mirror": 3.089303731918335
+ },
+ "9XHR": {
+  "mirror_chain": "C",
+  "peptide_len": 5,
+  "mpnn_nll_mirror": 3.076152801513672
+ },
+ "1ZEA": {
+  "mirror_chain": "A",
+  "peptide_len": 9,
+  "mpnn_nll_mirror": 2.97542142868042
+ }
+}
