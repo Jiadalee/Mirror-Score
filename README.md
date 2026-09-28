@@ -6,7 +6,7 @@
 
 **Official replication repository and dataset for the paper** [arXiv link coming soon]:
 
-#**"Mirror-Score: Calibrated, Inference-only Scoring Exposes the Limits of Sequence-compatibility Ranking in D-peptide Design"**
+***"Mirror-Score: Calibrated, Inference-only Scoring Exposes the Limits of Sequence-compatibility Ranking in D-peptide Design"***
 
 Jiada Li (Ph.D.) (2026)
 
