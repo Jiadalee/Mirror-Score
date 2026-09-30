@@ -4,7 +4,7 @@
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 
-**Official replication repository and dataset for the paper** [arXiv link coming soon]:
+**Official replication repository and dataset for the paper** [https://arxiv.org/abs/2609.36057]:
 
 ***"Mirror-Score: Calibrated, Inference-only Scoring Exposes the Limits of Sequence-compatibility Ranking in D-peptide Design"***
 
